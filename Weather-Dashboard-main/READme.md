@@ -34,7 +34,3 @@ THEN I am again presented with current and future conditions for that city
 
 ## _Github URL:_ https://github.com/semwalhimanshu90/Techplement/tree/main/Weather-Dashboard-main
 
-
-![image](https://user-images.githubusercontent.com/78938193/120252589-d22cae00-c239-11eb-95bb-3e4d1bb24b94.png)
-
-![image](https://user-images.githubusercontent.com/78938193/120252611-dfe23380-c239-11eb-9ec7-19732d622d4e.png)
