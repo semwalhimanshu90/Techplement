@@ -30,7 +30,7 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 
-## _Deployed URL:_ https://rubiocode.github.io/Weather-Dashboard/
+## _Deployed URL:_ https://mausamdashboard.netlify.app/
 
 ## _Github URL:_ https://github.com/semwalhimanshu90/Techplement/tree/main/Weather-Dashboard-main
 
